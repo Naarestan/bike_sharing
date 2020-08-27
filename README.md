@@ -1,4 +1,4 @@
-# bike_sharing
+# Bike Sharing
 The bike sharing analysis for my capstone project at University of Texas.
 
 # Background Information
