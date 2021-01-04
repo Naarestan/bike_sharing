@@ -1,5 +1,5 @@
 # Bike Sharing
-The bike sharing analysis for my capstone project at University of Texas.
+The bike sharing analysis for my capstone project at University of Texas at Austin, Winter 2021.
 
 ## Background Information
 Bike sharing systems are the new generation of traditional bike rentals where whole process from membership, rental and return back has become automatic. Through these systems, user is able to easily rent a bike from a particular position and return back at another position. Today, there exists great interest in these systems due to their important role in traffic, environmental and health issues.
